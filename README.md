@@ -1,9 +1,36 @@
 # Awesome Bioreactors
 
-This is a list of bioreactor-related information
+This is a list of bioreactor-related information.
 
 
 
 ### Open source bioreactors
+
+* Cost is approximate and per one marginal reactor at a count of 3-10 reactors.
+* Volume is vessel volume; working volume is usually about half the vessel volume.
+
+
+| Name                                                                                            | Volume | Cost    | Status               |
+| ----------------------------------------------------------------------------------------------- | ------ | ------- | -------------------- |
+| [Open Source Bioreactor](https://openbioeconomy.org/projects/open-source-bioreactor/)           | 2L     | <$700   | stopped 2018         |
+| [Chi Bio](https://chi.bio/)                                                                     | 20mL   | $800    | active 2021          |
+| [Pioreactor](https://pioreactor.com/)                                                           | 30mL   | $100    | planned release 2022 |
+| [iGem Aachen 2015](http://2015.igem.org/Team:Aachen/Lab/Bioreactor/Hardware)                    | 10mL   | $150    | stopped 2015         |
+| [Hackuarium](https://hackuarium.github.io/bioreactor/)                                          | 1L     | $1800   | active 2020          |
+| [Aeronaut](https://sites.google.com/site/opensourcebioreactor/)                                 | 8L     | >$450   | stopped 2015         |
+| [Tuerk et al 2008](https://pubmed.ncbi.nlm.nih.gov/18687068/)                                   | 12L    | $2250   | published 2008       |
+| [Matteau et al 2015](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0133384) | 55mL   | $1400   | published 2015       |
+| [Klavin's Lab](https://depts.washington.edu/soslab/turbidostat/pmwiki/pmwiki.php?n=Main.About)  | 15mL   | $2000   | updated 2020?        |
+| [Marinescu et al 2018](https://peerj.com/preprints/27150.pdf)                                   | 500mL  | $900    | published 2018       |
+| [Aalto rotary bioreactor](https://wiki.aalto.fi/display/MechP/Bioreactor+0.1)                   | 125mL  | $75     | stopped 2017         |
+| [EVE](https://github.com/vishhvaan/eve-pi)                                                      | 20mL   | $75-150 | stopped ~2020        |
+| [New Harvest & IRNAS](https://github.com/symbiolab/NewHarvest-modular-bioreactor)               | 35L    | ?       | stopped 2020         |
+| [binh-bk/advanced-bioreactor](https://github.com/binh-bk/advanced-bioreactor)                   | ?      | ?       | stopped 2018         |
+
+
+### Related projects
+* [Biosamplr](https://github.com/DukeLynchLab/BioSamplr): automated bioreactor sampler
+
+
 
 
