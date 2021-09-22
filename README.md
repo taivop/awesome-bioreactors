@@ -1,6 +1,6 @@
 # Awesome Bioreactors
 
-This is a list of bioreactor-related information.
+This is a repository of useful bioreactor-related lists.
 
 
 
@@ -8,6 +8,7 @@ This is a list of bioreactor-related information.
 
 * Cost is approximate and per one marginal reactor at a count of 3-10 reactors.
 * Volume is vessel volume; working volume is usually about half the vessel volume.
+* The list is sorted by status, active projects first.
 
 
 | Name                                                                                            | Volume  | Cost    | Status         |
@@ -35,6 +36,7 @@ This is a list of bioreactor-related information.
 ### Related projects
 * [Biosamplr](https://github.com/DukeLynchLab/BioSamplr): automated bioreactor sampler
 
-
+### Contributing
+I gladly accept contributions. To do so, please [create an issue](https://github.com/taivop/awesome-bioreactors/issues/new) or submit a pull request.
 
 
