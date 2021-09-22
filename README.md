@@ -2,6 +2,7 @@
 
 This is a repository of useful bioreactor-related lists.
 
+**If you're deep into bioreactors in any way, we'd love to chat -- email me at `taivo (at) pungas (dot) ee`.**
 
 
 ### Open source bioreactors
