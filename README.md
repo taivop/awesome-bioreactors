@@ -15,6 +15,7 @@ This is a list of bioreactor-related information.
 | [Chi Bio](https://chi.bio/)                                                                     | 20mL    | $800    | active 2021    |
 | [Pioreactor](https://pioreactor.com/)                                                           | 15mL    | $100    | active 2021    |
 | [eVOLVER](https://www.fynchbio.com/)                                                            | 16x20mL | $10000  | active 2021    |
+| [Phenobottle](https://github.com/HarveyBates/Phenobottle)                                       | 250mL   | $200    | active 2021    |
 | [ŌGI Bio](https://www.ogibio.com/)                                                              | ?       | ?       | active 2021?   |
 | [Humane Technologies Limited](https://www.humanetechnologies.co.uk/)                            | 10mL    | ?       | active 2021?   |
 | [Hackuarium](https://hackuarium.github.io/bioreactor/)                                          | 1L      | $1800   | active 2020    |
